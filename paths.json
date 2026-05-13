@@ -1,22 +1,14 @@
 {
   "mappings": [
-    "/content/carvelo/language-masters/en:/",
-    "/content/carvelo/language-masters/en/:/en/",
-    "/content/carvelo/language-masters/fr/:/fr/",
-    "/content/carvelo/language-masters/fr:/fr",
-    "/content/carvelo/language-masters/es/:/es/",
-    "/content/carvelo/language-masters/es:/es",
-    "/content/carvelo/language-masters/ja/:/ja/",
-    "/content/carvelo/language-masters/ja:/ja",
-    "/content/carvelo/language-masters/de/:/de/",
-    "/content/carvelo/language-masters/de:/de",
-    "/content/carvelo/configuration:/.helix/config.json",
-    "/content/carvelo/metadata:/metadata.json",
-    "/content/carvelo/redirects:/redirects.json",
-    "/content/carvelo/placeholders:/placeholders.json"
+    "/content/antaneja/fsi-20260513-105610/language-masters/en:/",
+    "/content/antaneja/fsi-20260513-105610/language-masters/en/:/en/",
+    "/content/antaneja/fsi-20260513-105610/configuration:/.helix/config.json",
+    "/content/antaneja/fsi-20260513-105610/metadata:/metadata.json",
+    "/content/antaneja/fsi-20260513-105610/redirects:/redirects.json",
+    "/content/antaneja/fsi-20260513-105610/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/carvelo/",
-    "/content/dam/carvelo/"
+    "/content/antaneja/fsi-20260513-105610/",
+    "/content/dam/antaneja/fsi-20260513-105610/"
   ]
 }
